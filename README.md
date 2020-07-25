@@ -94,6 +94,8 @@ Issues with suggestions and pull requests are welcome!
 
 - `CELLPROFILER` - cell image analysis software, https://cellprofiler.org/
 
+- `QuPath` - open source software for bioimage analysis, https://github.com/qupath/qupath
+
 - `pathology_learning` - Using traditional machine learning and deep learning methods to predict stuff from TCGA pathology slides. [https://github.com/millett/pathology_learning](https://github.com/millett/pathology_learning)
 
 ## Clonal analysis
