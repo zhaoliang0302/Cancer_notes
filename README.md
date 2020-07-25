@@ -92,6 +92,8 @@ Issues with suggestions and pull requests are welcome!
 
 - `IHCount` - IHC-image analysis workflow, https://github.com/mui-icbi/IHCount
 
+- `CELLPROFILER` - cell image analysis software, https://cellprofiler.org/
+
 - `pathology_learning` - Using traditional machine learning and deep learning methods to predict stuff from TCGA pathology slides. [https://github.com/millett/pathology_learning](https://github.com/millett/pathology_learning)
 
 ## Clonal analysis
